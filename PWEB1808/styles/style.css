@@ -1,0 +1,52 @@
+.header-1 
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(171, 14, 14);
+}
+
+.footer
+{
+    display: flex;
+    background-color: chocolate;
+}
+
+.nav
+{
+    background-color: rgb(171, 14, 14);
+}
+
+.nav-list 
+{
+    display: flex;
+
+}
+
+.nav-item
+{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+.nav-link 
+{
+    color: #ffff;
+}
+
+.nav-logo 
+{
+    color: #ffff;
+} 
+
+.home 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.about-container{
+    display: flex;
+    justify-content: center;
+}
